@@ -1,0 +1,14 @@
+{
+  "cb1_20250509_080437.cbm": {
+    "type": "catboost",
+    "weight": 0.5402651694489226
+  },
+  "xgb_20250509_080437.joblib": {
+    "type": "xgboost",
+    "weight": 0.5402651694489226
+  },
+  "rf_20250509_080437.joblib": {
+    "type": "random_forest",
+    "weight": 0.5402651694489226
+  }
+}
